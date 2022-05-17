@@ -1,2 +1,2 @@
-# ejerciciosopenbotcamp
+# ejerciciosopenbootcamp
 Ejercicios del openbootcamp
